@@ -1,5 +1,7 @@
+
+
 :root {
-  font-family: Poopins, sans-serif ;
+  font-family: Poppins, sans-serif ;
   line-height: 1.5;
   font-weight: 400;
 
@@ -19,4 +21,5 @@ a{
 html, body{
   height: 100%;
   width: 100%;
+  background-color: #1a0924 ;
 }
